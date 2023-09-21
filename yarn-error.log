@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "expo-app",
+    "name": "remind-me-app",
     "version": "1.0.0",
     "main": "node_modules/expo/AppEntry.js",
     "scripts": {
