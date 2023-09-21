@@ -1,5 +1,7 @@
-import rainbowBackground from './rainbow.png';
+import rainbowBackground from './bg-pink-with-rainbow.png';
+import rainbow from './rainbow.png';
 
 export {
-    rainbowBackground
+    rainbowBackground,
+    rainbow
 }
